@@ -19,13 +19,13 @@ The dataset contains app details from Google Play Store till February 2019.
 
 ## General Info
 
-The reference to the dataset was obtained from [kaggle](https://www.kaggle.com/lava18/google-play-store-apps). There are a total of 2 datasets:
+The dataset was referenced from [kaggle](https://www.kaggle.com/lava18/google-play-store-apps). There are a total of 2 datasets:
 * Details of the Apps from Google Play Store
 * First 100 most relevant reviews for majority of the app
 
 ## Variable Description
 
-The App data set containing App details has 13 variables. The variable names and the description is mentioned below:
+The App data set containing App details and has 13 variables. The variable names and the description is mentioned below:
   - App:            Name of the App
   - Category:       Category of the App
   - Rating:         Average rating of the App
