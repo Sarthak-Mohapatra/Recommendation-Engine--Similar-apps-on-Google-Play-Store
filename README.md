@@ -68,4 +68,4 @@ Project is: *finished*
 ## Contact
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you just want to shoot a question,
-please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthakmohapatra1990/) or email me sarthakmohapatra1990@gmail.com.
+please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthakmohapatra1990/) or email me at sarthakmohapatra1990@gmail.com.
