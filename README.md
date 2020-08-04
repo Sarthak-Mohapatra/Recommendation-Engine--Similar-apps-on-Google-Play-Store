@@ -49,7 +49,7 @@ The Reviews data set containing top 100 reviews for apps has 5 variables. The va
   
  ## Screenshots
  
- The below screenshot shows the generation of similar apps when "3D Bowing" is provided as input:
+ The below screenshot shows the generation of similar apps when "3D Bowling" is provided as input:
  
  ![Similar Apps for 3D Bowling](https://github.com/Sarthak-Mohapatra/Recommendation-Engine-for-apps-from-Google-Play-Store/blob/master/output%20ss.JPG)
  
